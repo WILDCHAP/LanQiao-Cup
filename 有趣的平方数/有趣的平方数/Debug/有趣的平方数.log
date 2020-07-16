@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\蓝桥杯\实验例题\有趣的平方数\有趣的平方数\源.cpp(11): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+  有趣的平方数.vcxproj -> D:\蓝桥杯\实验例题\有趣的平方数\Debug\有趣的平方数.exe
+  有趣的平方数.vcxproj -> D:\蓝桥杯\实验例题\有趣的平方数\Debug\有趣的平方数.pdb (Full PDB)

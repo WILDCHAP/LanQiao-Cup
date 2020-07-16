@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : 对路径“d:\蓝桥杯\实验例题\11111111\debug\11111111.exe”的访问被拒绝。
+  源.cpp
+LINK : fatal error LNK1104: 无法打开文件“D:\蓝桥杯\实验例题\11111111\Debug\11111111.exe”

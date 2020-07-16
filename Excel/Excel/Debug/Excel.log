@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\蓝桥杯\实验例题\excel\excel\源.cpp(11): warning C4101: “i”: 未引用的局部变量
+  Excel.vcxproj -> D:\蓝桥杯\实验例题\Excel\Debug\Excel.exe
+  Excel.vcxproj -> D:\蓝桥杯\实验例题\Excel\Debug\Excel.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\蓝桥杯\实验例题\算年龄\算年龄\源.cpp(7): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  算年龄.vcxproj -> D:\蓝桥杯\实验例题\算年龄\Debug\算年龄.exe
+  算年龄.vcxproj -> D:\蓝桥杯\实验例题\算年龄\Debug\算年龄.pdb (Full PDB)
